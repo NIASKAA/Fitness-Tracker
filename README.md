@@ -4,7 +4,7 @@ A basic web application that can track your workout routines when you input into
 
 ## Tech Usage
 
-**Client:** BootStrap, HTML,
+**Client:** HTML
 
 **Server:** Node, Express, MongoDB, mongoose.js, morgan.js
 
