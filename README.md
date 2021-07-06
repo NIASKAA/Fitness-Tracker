@@ -18,8 +18,8 @@ Add badges from somewhere like:
   
 ## Deployment
 
-Link to github: 
-Link to heroku: 
+Link to github: https://github.com/NIASKAA/Fitness-Tracker
+Link to heroku: https://niaskafitnesstracker.herokuapp.com/
 
 
 ## Authors
